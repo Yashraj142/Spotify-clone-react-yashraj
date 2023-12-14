@@ -1,0 +1,17 @@
+.footer-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    gap: 20px;
+    z-index: 999;
+    height: 100%;
+
+}
+.player-control{
+    display: flex;
+    gap: 20px;
+    cursor: pointer;
+
+    
+}

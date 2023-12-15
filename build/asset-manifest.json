@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3327a687.css",
+    "main.js": "/static/js/main.0da0c49c.js",
+    "static/media/playlistcover.jpg": "/static/media/playlistcover.554ab8fa4e58a7d4280b.jpg",
+    "index.html": "/index.html",
+    "static/media/Previcon.svg": "/static/media/Previcon.8c22f91368fa1688460d1664611c97ff.svg",
+    "static/media/nexticon.svg": "/static/media/nexticon.fa0a22ff7300ceb1b40f87554d9538a5.svg",
+    "static/media/Homeicon.svg": "/static/media/Homeicon.86ee11fff8af77aff4b72ccbf77e5b62.svg",
+    "static/media/libraryicon.svg": "/static/media/libraryicon.0e48c31608914087b8d9e236aa7a7254.svg",
+    "static/media/playicon.svg": "/static/media/playicon.d9bb25672298f3b2c419b7af0f306742.svg",
+    "static/media/searchicon.svg": "/static/media/searchicon.ecdf8ec7c4f054fbcbfe4af53be7c8a2.svg",
+    "static/media/pauseicon.svg": "/static/media/pauseicon.07eae6b5e89b7e16c621a1f0e48abf78.svg",
+    "main.3327a687.css.map": "/static/css/main.3327a687.css.map",
+    "main.0da0c49c.js.map": "/static/js/main.0da0c49c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3327a687.css",
+    "static/js/main.0da0c49c.js"
+  ]
+}

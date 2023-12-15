@@ -15,7 +15,7 @@
     width: 250px;
     height: 250px;
     border-radius: 10px;    
-    background-image: url('C:/Users/yashd/Spotifyclone_reactjs/cuvette/src/assets/playlistcover.jpg');
+    background-image: url('../src/assets/playlistcover.jpg');
     background-size: cover;
     cursor: pointer;
 }

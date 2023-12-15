@@ -3,7 +3,6 @@ import './Sidebar.css'
 
 import { ReactComponent as Homeicon } from '../assets/Homeicon.svg'
 import { ReactComponent as Libraryicon } from '../assets/libraryicon.svg'
-import { ReactComponent as Playicon } from '../assets/playicon.svg'
 import { ReactComponent as Searchicon} from '../assets/searchicon.svg'
 
 const myplayist = [
